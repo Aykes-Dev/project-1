@@ -1,3 +1,5 @@
-hello
-some update
-update kraken
+<<<<<<< Updated upstream
+fff
+=======
+sss
+>>>>>>> Stashed changes
